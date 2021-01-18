@@ -6,8 +6,8 @@
         "I'm lucky to be your mirror!",
         "The Force is strong with you",
         "If I could high five you... I would!",
-        "On a scale from 1 to 10, you're an 15!",
-        "Being awesome is hard, but you'll manage",
+        "בסולם 1 עד 10 את 15",
+        "להיות מדהים זה קשה אבל אני אצליח",
         "I could just hang here all day!",
         "I need some time to reflect...",
         "I see a lot of myself in you",
@@ -60,7 +60,7 @@
 	    "את כמו נר בחשכה",
         "You're a great example to others",
         "Being around you is like being on a happy little holiday",
-        "You always know just what to say",
+        "אתה תמיד יודע מה לאמר",
         "You're more fun than bubble wrap",
         "When you make a mistake, you fix it",
         "Who raised you? They deserve a medal for a job well done",
@@ -84,7 +84,7 @@
         "You have a good head on your shoulders",
         "Has anyone ever told you that you have great posture?",
         "The way you treasure your loved ones is incredible",
-        "You're really something special",
+        "את באמת משהו מיוחד",
         "You're a gift to those around you",
         "You're so smart! Why haven't I thought of that before?",
         "You look great in that outfit",
@@ -109,7 +109,7 @@
         "You cracked me up with that joke",
         "I love all of the photos you've taken",
         "That's so awesome!",
-        "Have been working out lately?",
+        "?התאמנת לאחרונה",
         "How do you style your hair like that?",
         "You must be the life of the party",
         "You look even better without makeup",
@@ -117,7 +117,7 @@
         "You have a great taste in clothes",
         "Take a break! You deserve a holiday",
         "How do make your skin to look flawless and radiant?",
-        "Nice nails!",
+        "איזה יופי של ציפורניים",
         "You are one of a kind",
         "Keep up the good work!",
         "You nailed it!",
@@ -153,13 +153,13 @@
         "You have such nice eyes",
         "You're awesome",
         "מספר אחת",
-        "You're fantastic",
+        "פנטסטי",
         "You're really flipping smart",
         "You look awesome today, seriously"
     ],
     "morning" : [
-        "Good morning, sunshine!",
-        "Who needs coffee when you have your smile?",
+        "בוקר טוב קרן אור",
+        "מי צריך קפה, שיש את החיוך שלך",
         "Go get 'em, Tiger!"
     ],
     "afternoon" : [
@@ -180,7 +180,7 @@
         "Be careful, it may be slippery out there!"
     ],
     "day_sunny" : [
-        "Today is a sunny day",
+        "איזה יום יפה בחוץ",
         "It's a beautiful day",
         "The sun is shining today!",
         "It's such a beautiful day",
@@ -200,7 +200,7 @@
     ],
     "rain" : [
         "You may need your waterproof coat",
-        "It's wet out there, drive safely",
+        "הכל רטוב בחוץ, סעו בזהירות",
         "It's rainy outside, but you brighten my day"
         ],
     "thunderstorm" : [
